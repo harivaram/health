@@ -1,0 +1,10 @@
+table{
+  border-collapse: separate;
+  border-spacing: 0em 1em;
+}
+
+th, td {
+  text-align: left;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2;}
